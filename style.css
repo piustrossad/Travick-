@@ -1,0 +1,19 @@
+.product ul{
+    display: flex;
+}
+.product li{
+    padding: 5px;
+    list-style: none;
+    text-decoration: none;
+}
+a:hover{
+    background-color: aqua;
+}
+a:active{
+    background-color: blue;
+}
+.image{
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
